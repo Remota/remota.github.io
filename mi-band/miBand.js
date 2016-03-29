@@ -13,7 +13,7 @@
   /* Custom Bluetooth Service UUIDs */
 
   const MIBAND_SERVICE_UUID = 0xFEE0;
-  const IOS_SERVICE_UUID = 0xFEE7;
+  const IOS_SERVICE_UUID = 0xFEE1;
 
   /* Custom Bluetooth Characteristic UUIDs */
 
